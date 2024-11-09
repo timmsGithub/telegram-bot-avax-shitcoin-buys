@@ -1,0 +1,20 @@
+[
+  {
+    "chatId": 6740551176,
+    "group": "1"
+  },
+  {
+    "chatId": 6044477170,
+    "group": "1"
+  },
+  {
+    "chatId": 1153302224,
+    "group": "5",
+    "options": {
+      "filterPronoun": "younger",
+      "time": "3h",
+      "filterPronounMM": "less",
+      "amountMM": 50000
+    }
+  }
+]
